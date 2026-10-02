@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
-import Contador from '../components/ContadorComponent.vue/index.js'
+import Contador from '../components/ContadorComponent.vue'
 import ListaTareas from '../components/ListaTareas.vue'
 
 const routes = [
